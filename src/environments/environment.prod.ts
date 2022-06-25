@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  BASE_URL:"https://api.rawg.io/api",
+  RAW_KEY:null
 };
